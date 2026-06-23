@@ -8,7 +8,7 @@ https://three-qaq1.vercel.app/
 
 ## Demo Video
 
-[![Watch the demo video](./Screenshot%202026-06-23%20at%202.12.40%E2%80%AFPM.png)](./Screen%20Recording%202026-06-23%20at%202.12.47%E2%80%AFPM.mov)
+[![Watch on YouTube](https://img.youtube.com/vi/G7jDwt3UrGE/hqdefault.jpg)](https://www.youtube.com/watch?v=G7jDwt3UrGE)
 
 ## Screenshot
 
